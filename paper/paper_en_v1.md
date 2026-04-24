@@ -609,7 +609,9 @@ All data and code are open:
 - **Scanning scripts** in Python using the `sentence-transformers` library, reproducible on consumer-grade GPU
 - **Author–work lookup tables** — Perseus Greek/Latin, Gutenberg era-filtered rank tables
 
-GitHub repository: (pending release)
+GitHub repository: https://github.com/dairongzhen3-creator/math-language-cross-section
+
+Zenodo DOI: [10.5281/zenodo.19718086](https://doi.org/10.5281/zenodo.19718086)
 
 Any use, verification, or extension is welcome. If you scan new slices or find new structures, please contact the author — we are happy to integrate findings into a larger stratigraphic map.
 

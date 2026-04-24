@@ -6,7 +6,7 @@
 
 Author: **Dai Rongzhen** (戴荣臻) · ORCID: [0009-0005-7165-0080](https://orcid.org/0009-0005-7165-0080)
 
-[Paper — English (PDF)](paper/paper_en_v1.pdf) · [Paper — Chinese (PDF)](paper/数学语言的向量剖面_v1.pdf) · DOI: *pending Zenodo assignment*
+[Paper — English (PDF)](paper/paper_en_v1.pdf) · [Paper — Chinese (PDF)](paper/数学语言的向量剖面_v1.pdf) · DOI: [**10.5281/zenodo.19718086**](https://doi.org/10.5281/zenodo.19718086)
 
 ---
 
@@ -98,7 +98,7 @@ Conclusions should be read in **relative** terms (differences between slices, be
 
 ```
 Dai Rongzhen (2026). Mathematical Language Cross-Section: A Cross-Civilizational
-Quantitative Scan from Euclid to Euler. Zenodo. https://doi.org/[pending]
+Quantitative Scan from Euclid to Euler. Zenodo. https://doi.org/10.5281/zenodo.19718086
 ```
 
 ## License
