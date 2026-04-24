@@ -1,0 +1,912 @@
+{
+  "tlg0003": {
+    "author": "Thucydides",
+    "works": {
+      "tlg001": "The History of the Grecian War"
+    }
+  },
+  "tlg0004": {
+    "author": "Diogenes Laertius",
+    "works": {
+      "tlg001": "Lives of Eminent Philosophers"
+    }
+  },
+  "tlg0006": {
+    "author": "Euripides",
+    "works": {
+      "tlg001": "The Cyclops",
+      "tlg002": "Alcestis",
+      "tlg003": "Medea",
+      "tlg004": "Heracleidae",
+      "tlg005": "Hippolytus",
+      "tlg006": "Andromache",
+      "tlg007": "Hecuba",
+      "tlg008": "The Suppliants",
+      "tlg009": "Heracles Mad",
+      "tlg010": "Ion",
+      "tlg011": "The Trojan Women",
+      "tlg012": "Electra",
+      "tlg013": "Iphigenia Among the Tauri",
+      "tlg014": "Helen",
+      "tlg015": "The Phoenician Maidens",
+      "tlg016": "Orestes",
+      "tlg017": "The Bacchae",
+      "tlg018": "Iphigenia at Aulis",
+      "tlg019": "Rhesus"
+    }
+  },
+  "tlg0007": {
+    "author": "Plutarch",
+    "works": {
+      "tlg001": "Theseus",
+      "tlg002": "Romulus",
+      "tlg003": "Comparison of Theseus and Romulus",
+      "tlg004": "Lycurgus",
+      "tlg005": "Numa",
+      "tlg006": "Comparison of Lycurgus and Numa",
+      "tlg007": "Solon",
+      "tlg008": "Publicola",
+      "tlg009": "Comparison of Solon and Publicola",
+      "tlg010": "Themistocles",
+      "tlg011": "Camillus",
+      "tlg012": "Pericles",
+      "tlg013": "Fabius Maximus",
+      "tlg014": "Comparison of Pericles and Fabius Maximus",
+      "tlg015": "Alcibiades",
+      "tlg016": "Caius Marcius Coriolanus",
+      "tlg017": "Comparison of Alcibiades and Coriolanus",
+      "tlg018": "Timoleon",
+      "tlg019": "Aemilius Paulus",
+      "tlg020": "Comparison of Timoleon and Aemilius",
+      "tlg021": "Pelopidas",
+      "tlg022": "Marcellus",
+      "tlg023": "Comparison of Pelopidas and Marcellus",
+      "tlg024": "Aristides",
+      "tlg025": "Marcus Cato",
+      "tlg026": "Comparison of Aristides and Marcus Cato",
+      "tlg027": "Philopoemen",
+      "tlg028": "Titus Flamininus",
+      "tlg029": "Comparison of Philopoemen and Titus",
+      "tlg030": "Pyrrhus",
+      "tlg031": "Caius Marius",
+      "tlg032": "Lysander",
+      "tlg033": "Sulla",
+      "tlg034": "Comparison of Lysander and Sulla",
+      "tlg035": "Cimon",
+      "tlg036": "Lucullus",
+      "tlg037": "Comparison of Lucullus and Cimon",
+      "tlg038": "Nicias",
+      "tlg039": "Crassus",
+      "tlg040": "Comparison of Nicias and Crassus",
+      "tlg041": "Eumenes",
+      "tlg042": "Sertorius",
+      "tlg043": "Comparison of Sertorius and Eumenes",
+      "tlg044": "Agesilaus",
+      "tlg045": "Pompey",
+      "tlg046": "Comparison of Agesilaus and Pompey",
+      "tlg047": "Alexander",
+      "tlg048": "Caesar",
+      "tlg049": "Phocion",
+      "tlg050": "Cato the Younger",
+      "tlg051": "Agis and Cleomenes",
+      "tlg052": "Tiberius and Caius Gracchus",
+      "tlg053": "Comparison of Agis and Cleomenes and the Gracchi",
+      "tlg054": "Demosthenes",
+      "tlg055": "Cicero",
+      "tlg056": "Comparison of Demosthenes and Cicero",
+      "tlg057": "Demetrius",
+      "tlg058": "Antony",
+      "tlg059": "Comparison of Demetrius and Antony",
+      "tlg060": "Dion",
+      "tlg061": "Brutus",
+      "tlg062": "Comparison of Dion and Brutus",
+      "tlg063": "Aratus",
+      "tlg064": "Artaxerxes",
+      "tlg065": "Galba",
+      "tlg066": "Otho",
+      "tlg067": "The Education of Children",
+      "tlg068": "How the Young Man Should Study Poetry",
+      "tlg069": "On Listening to Lectures",
+      "tlg070": "How to Tell a Flatterer from a Friend",
+      "tlg071": "How a Man May Become Aware of His Progress in Virtue",
+      "tlg072": "How To Profit By One's Enemies",
+      "tlg073": "On Having Many Friends",
+      "tlg074": "Chance",
+      "tlg075": "Virtue and Vice",
+      "tlg076": "A Letter of Condolence to Apollonius",
+      "tlg077": "Advice About Keeping Well",
+      "tlg078": "Advice to Bride and Groom",
+      "tlg079": "The Dinner of the Seven Wise Men",
+      "tlg080": "Superstition",
+      "tlg081": "Sayings of Kings and Commanders",
+      "tlg082": "Sayings of Spartans",
+      "tlg082a": "The Ancient Customs of the Spartans",
+      "tlg082b": "Sayings of Spartan Women",
+      "tlg083": "Bravery of Women",
+      "tlg084a": "The Roman Questions",
+      "tlg084b": "The Greek Questions",
+      "tlg085": "Greek and Roman Parallel Stories",
+      "tlg086": "On the Fortunes of the Romans",
+      "tlg087": "On the Fortune or the Virtue of Alexander I and II",
+      "tlg088": "Were the Athenians More Famous in War or in Wisdom?",
+      "tlg089": "Isis and Osiris",
+      "tlg090": "De E apud Delphos",
+      "tlg091": "The Oracle at Delphi no Longer Given in Verse",
+      "tlg092": "The Obsolesence of Oracles",
+      "tlg093": "Can Virtue Be Taught?",
+      "tlg094": "On Moral Virtue",
+      "tlg095": "On the Control of Anger",
+      "tlg096": "On Tranquillity of Mind",
+      "tlg097": "On Brotherly Love",
+      "tlg098": "On Affection for Offspring",
+      "tlg099": "Whether vice be sufficient to cause unhappiness",
+      "tlg100": "Whether the Affections of the Soul are Worse Than Those of the Body",
+      "tlg101": "Concerning Talkativeness",
+      "tlg102": "On Being a Busybody",
+      "tlg103": "Of the Love of Wealth",
+      "tlg104": "Of Bashfulness",
+      "tlg105": "Of Envy and Hatred",
+      "tlg106": "How a Man May Inoffensively Praise Himself Without Being Liable to Envy",
+      "tlg107": "Concerning Such Whom God is Slow to Punish",
+      "tlg108": "Of Fate.",
+      "tlg109": "A Discourse Concerning Socrates's Daemon",
+      "tlg110": "Of Banishment, or Flying One's Country.",
+      "tlg111": "Plutarch's Consolatory Letter to His Wife",
+      "tlg112": "Symposiacs",
+      "tlg113": "Of Love.",
+      "tlg114": "Love Stories",
+      "tlg115": "That a Philosopher Ought to Converse Especially with Men in Power",
+      "tlg116": "To an Uneducated Ruler",
+      "tlg117": "Whether an Old Man Should Engage in Public Affairs",
+      "tlg118": "Precepts of Statecraft",
+      "tlg119": "On Monarchy, Democracy, and Oligrachy",
+      "tlg120": "That we Ought not to Borrow",
+      "tlg121": "The Lives of the Ten Orators",
+      "tlg122": "Summary of a Comparison Between Aristophanes and Menander",
+      "tlg123": "Of Herodotus's Malice.",
+      "tlg125": "Plutarch's Natural Questions",
+      "tlg126": "Concerning the Face which Appears in the Orb Of the Moon",
+      "tlg127": "Concerning the First Principle of Cold",
+      "tlg128": "Whether fire or water is most useful",
+      "tlg129": "Whether land or sea animals are cleverer",
+      "tlg130": "Beasts are rational",
+      "tlg131": "On the eating of flesh I",
+      "tlg132": "On the eating of flesh II",
+      "tlg133": "Plutarch's Platonic questions",
+      "tlg134": "Concerning the procreation of the soul as discoursed in Timaeus",
+      "tlg136": "The contradictions of the Stoics",
+      "tlg137": "A breviate of a discourse, showing that the Stoics speak greater improbabilities than the poets.",
+      "tlg138": "Of common conceptions, against the Stoics.",
+      "tlg139": "That it is Not Possible to Live Pleasurably According to the Doctrine of Epicurus",
+      "tlg140": "Against Colotes, the Disciple and Favorite of Epicurus.",
+      "tlg141": "Whether 'Twere Rightly Said, Live Concealed."
+    }
+  },
+  "tlg0008": {
+    "author": "Athenaeus of Naucratis",
+    "works": {
+      "tlg001": "The Deipnosophists"
+    }
+  },
+  "tlg0010": {
+    "author": "Isocrates",
+    "works": {
+      "tlg001": "Against Euthynus",
+      "tlg002": "Against Callimachus",
+      "tlg003": "Against Lochites",
+      "tlg004": "Concerning the Team of Horses",
+      "tlg005": "Trapeziticus",
+      "tlg006": "Aegineticus",
+      "tlg007": "To Demonicus",
+      "tlg008": "Against the Sophists",
+      "tlg009": "Helen",
+      "tlg010": "Busiris",
+      "tlg011": "Panegyricus",
+      "tlg012": "Plataicus",
+      "tlg013": "To Nicocles",
+      "tlg014": "Nicocles or the Cyprians",
+      "tlg015": "Evagoras",
+      "tlg016": "To Archidamus",
+      "tlg017": "On the Peace",
+      "tlg018": "Areopagiticus",
+      "tlg019": "Antidosis",
+      "tlg020": "To Philip",
+      "tlg021": "Panathenaicus",
+      "tlg022": "Letter 1: To Dionysius",
+      "tlg023": "Letter 6: To the Children of Jason",
+      "tlg024": "Letter 9: To Archidamus",
+      "tlg025": "Letter 8: To the Rulers of the Mytilenaeans",
+      "tlg026": "Letter 7: To Timotheus",
+      "tlg027": "Letter 2: To Philip, I",
+      "tlg028": "Letter 5: To Alexander",
+      "tlg029": "Letter 4: To Antipater",
+      "tlg030": "Letter 3: To Philip, II"
+    }
+  },
+  "tlg0011": {
+    "author": "Sophocles",
+    "works": {
+      "tlg001": "Trachiniae",
+      "tlg002": "Antigone",
+      "tlg003": "Ajax",
+      "tlg004": "Oedipus Tyrannus",
+      "tlg005": "Electra",
+      "tlg006": "Philoctetes",
+      "tlg007": "Oedipus at Colonus",
+      "tlg008": "Tracking Satyrs"
+    }
+  },
+  "tlg0012": {
+    "author": "Homer",
+    "works": {
+      "tlg001": "Iliad",
+      "tlg002": "Odyssey",
+      "tlg003": "Epigrams"
+    }
+  },
+  "tlg0013": {
+    "author": "Homeric Hymns",
+    "works": {
+      "tlg001": "Hymn 1 to Dionysus",
+      "tlg002": "Hymn 2 to Demeter",
+      "tlg003": "Hymn 3 to Apollo",
+      "tlg004": "Hymn 4 to Hermes",
+      "tlg005": "Hymn 5 to Aphrodite",
+      "tlg006": "Hymn 6 to Aphrodite",
+      "tlg007": "Hymn 7 to Dionysus",
+      "tlg008": "Hymn 8 to Ares",
+      "tlg009": "Hymn 9 to Artemis",
+      "tlg010": "Hymn 10 to Aphrodite",
+      "tlg011": "Hymn 11 to Athena",
+      "tlg012": "Hymn 12 to Hera",
+      "tlg013": "Hymn 13 to Demeter",
+      "tlg014": "Hymn 14 to the Mother of the Gods",
+      "tlg015": "Hymn 15 to Heracles",
+      "tlg016": "Hymn 16 to Asclepius",
+      "tlg017": "Hymn 17 To the Dioscuri",
+      "tlg018": "Hymn 18 to Hermes",
+      "tlg019": "Hymn 19 to Pan",
+      "tlg020": "Hymn 20 to Hephaestus",
+      "tlg021": "Hymn 21 to Apollo",
+      "tlg022": "Hymn 22 to Poseidon",
+      "tlg023": "Hymn 23 to Zeus",
+      "tlg024": "Hymn 24 to Hestia",
+      "tlg025": "Hymn 25 to the Muses and Apollo",
+      "tlg026": "Hymn 26 to Dionysus",
+      "tlg027": "Hymn 27 to Artemis",
+      "tlg028": "Hymn 28 to Athena",
+      "tlg029": "Hymn 29 to Hestia",
+      "tlg030": "Hymn 30 to Earth",
+      "tlg031": "Hymn 31 to Helios",
+      "tlg032": "Hymn 32 to Selene",
+      "tlg033": "Hymn 33 to the Dioscuri"
+    }
+  },
+  "tlg0014": {
+    "author": "Demosthenes",
+    "works": {
+      "tlg001": "First Olynthiac",
+      "tlg002": "Second Olynthiac",
+      "tlg003": "Third Olynthiac",
+      "tlg004": "First Philippic",
+      "tlg005": "On the Peace",
+      "tlg006": "Second Philippic",
+      "tlg007": "On Halonnesus",
+      "tlg008": "On the Chersonese",
+      "tlg009": "Third Philippic",
+      "tlg010": "Fourth Philippic",
+      "tlg011": "Answer to Philip’s Letter",
+      "tlg012": "Philip’s Letter",
+      "tlg013": "On Organization",
+      "tlg014": "On the Navy-Boards",
+      "tlg015": "For the Liberty of the Rhodians",
+      "tlg016": "For the People of Megalopolis",
+      "tlg017": "On the Treaty with Alexander",
+      "tlg018": "On the Crown",
+      "tlg019": "On the Embassy",
+      "tlg020": "Against Leptines",
+      "tlg021": "Against Meidias",
+      "tlg022": "Against Androtion",
+      "tlg023": "Against Aristocrates",
+      "tlg024": "Against Timocrates",
+      "tlg025": "Against Aristogeiton I",
+      "tlg026": "Against Aristogeiton II",
+      "tlg027": "Against Aphobus I",
+      "tlg028": "Against Aphobus II",
+      "tlg029": "Against Aphobus III",
+      "tlg030": "Against Onetor, An Ejectment Suit I",
+      "tlg031": "Against Onetor, An Ejectment Suit II",
+      "tlg032": "Plea of Demo Against Zenothemis",
+      "tlg033": "Unknown Pleader Against Apaturius",
+      "tlg034": "Plea of Chrysipus and Partner Against Phormio",
+      "tlg035": "Androcles Against Lacritus",
+      "tlg036": "A Friend Pleading for Phormio",
+      "tlg037": "Nicobulus Against Pantaenetus",
+      "tlg038": "One of the Sons of Aristaechmus Against Nausimachus and Xenopeithes",
+      "tlg039": "Mantitheus Against Boeotus I",
+      "tlg040": "Mantitheus Against Boeotus II",
+      "tlg041": "An Unknown Pleader Against Spudias in the Matter of a Marriage Proposal",
+      "tlg042": "Unknown Pleader Against Phaenippus, On an Exchange of Properties",
+      "tlg043": "Sositheus Against Macartatus in Regard to the Estate of Hagnias",
+      "tlg044": "Aristodemus Against Leochares Regarding the Estate of Archiades",
+      "tlg045": "Apollodorus Against Stephanus, Charged with False Testimony I",
+      "tlg046": "Apollodorus Against Stephanus, Charged with False Testimony II",
+      "tlg047": "Unknown Pleader Against Evergus and Mnesibulus, About False Testimony",
+      "tlg048": "Callistratus Against Olympiodorus, an Action for Damages",
+      "tlg049": "Apollodorus Against Timotheus in the Matter of a Debt",
+      "tlg050": "Apollodorus Against Polycles for Expenses Incurred while Serving as Trierarch",
+      "tlg051": "On the Trierarchic Crown, by an Unknown Pleader",
+      "tlg052": "Apollodorus Against Callippus",
+      "tlg053": "Apollodorus Against Nicostratus in the Matter of Slaves of Aresthusius",
+      "tlg054": "Ariston Against Conon, an Action for Assault",
+      "tlg055": "The Son of Teisias Against Callicles, Regarding Damage to a Piece of Property",
+      "tlg056": "Dareius Against Dionysodorus in the Matter of a Loan",
+      "tlg057": "Euxitheus Against Eubulides, an Appeal",
+      "tlg058": "Epichares Against Theocrines, a Criminal Information",
+      "tlg059": "Theomnestus and Apollodorus Against Neaera",
+      "tlg060": "The Funeral Speech",
+      "tlg061": "The Erotic Essay",
+      "tlg062": "Exordia",
+      "tlg063": "Letters"
+    }
+  },
+  "tlg0016": {
+    "author": "Herodotus",
+    "works": {
+      "tlg001": "Histories"
+    }
+  },
+  "tlg0017": {
+    "author": "Isaeus",
+    "works": {
+      "tlg001": "On The Estate of Cleonymus",
+      "tlg002": "On the Estate of Menecles",
+      "tlg003": "On The Estate Of Pyrrhus",
+      "tlg004": "On the Estate of Nicostratus",
+      "tlg005": "On the Estate of Dicaeogenes",
+      "tlg006": "On the Estate of Philoctemon",
+      "tlg007": "On The Estate of Apollodorus",
+      "tlg008": "On The Estate of Ciron",
+      "tlg009": "On the Estate of Astyphilus",
+      "tlg010": "On The Estate of Aristarchus",
+      "tlg011": "On the Estate of Hagnias",
+      "tlg012": "On Behalf of Euphiletus"
+    }
+  },
+  "tlg0019": {
+    "author": "Aristophanes",
+    "works": {
+      "tlg003": "Clouds",
+      "tlg006": "Birds"
+    }
+  },
+  "tlg0020": {
+    "author": "Hesiod",
+    "works": {
+      "tlg001": "Theogony",
+      "tlg002": "Works and Days",
+      "tlg003": "Shield of Heracles"
+    }
+  },
+  "tlg0026": {
+    "author": "Aeschines",
+    "works": {
+      "tlg001": "Against Timarchus",
+      "tlg002": "On the Embassy",
+      "tlg003": "Against Ctesiphon"
+    }
+  },
+  "tlg0027": {
+    "author": "Andocides",
+    "works": {
+      "tlg001": "On the Mysteries",
+      "tlg002": "On His Return",
+      "tlg003": "On the Peace with Sparta",
+      "tlg004": "Against Alcibiades"
+    }
+  },
+  "tlg0028": {
+    "author": "Antiphon",
+    "works": {
+      "tlg001": "Prosecution Of The Stepmother For Poisoning",
+      "tlg002": "The First Tetralogy: Anonymous Prosecution for Murder",
+      "tlg003": "The Second Tetralogy: Prosecution for Accidental Homicide",
+      "tlg004": "The Third Tetralogy: Prosecution for Murder Of One Who Pleads That He Was Acting in Self-Defence",
+      "tlg005": "On the Murder of Herodes",
+      "tlg006": "On the Choreutes"
+    }
+  },
+  "tlg0029": {
+    "author": "Dinarchus",
+    "works": {
+      "tlg004": "Against Demosthenes",
+      "tlg005": "Against Aristogiton",
+      "tlg006": "Against Philocles"
+    }
+  },
+  "tlg0030": {
+    "author": "Hyperides",
+    "works": {
+      "tlg001": "In Defence of Lycophron",
+      "tlg002": "Against Philippides",
+      "tlg003": "Against Athenogenes",
+      "tlg004": "In Defence of Euxenippus",
+      "tlg005": "Against Demosthenes",
+      "tlg006": "Funeral Oration"
+    }
+  },
+  "tlg0031": {
+    "author": "New Testament",
+    "works": {
+      "tlg001": "Matthew",
+      "tlg002": "Mark",
+      "tlg003": "Luke",
+      "tlg004": "John",
+      "tlg005": "Acts",
+      "tlg006": "Romans",
+      "tlg007": "1 Corinthians",
+      "tlg008": "2 Corinthians",
+      "tlg009": "Galatians",
+      "tlg010": "Ephesians",
+      "tlg011": "Philippians",
+      "tlg012": "Colossians",
+      "tlg013": "1 Thessalonians",
+      "tlg014": "2 Thessalonians",
+      "tlg015": "1 Timothy",
+      "tlg016": "2 Timothy",
+      "tlg017": "Titus",
+      "tlg018": "Philemon",
+      "tlg019": "Hebrews",
+      "tlg020": "James",
+      "tlg021": "1 Peter",
+      "tlg022": "2 Peter",
+      "tlg023": "1 John",
+      "tlg024": "2 John",
+      "tlg025": "3 John",
+      "tlg026": "Jude",
+      "tlg027": "Revelation"
+    }
+  },
+  "tlg0032": {
+    "author": "Xenophon",
+    "works": {
+      "tlg001": "Hellenica",
+      "tlg002": "Memorabilia",
+      "tlg003": "Economics",
+      "tlg004": "Symposium",
+      "tlg005": "Apology",
+      "tlg006": "Anabasis",
+      "tlg007": "Cyropaedia",
+      "tlg008": "Hiero",
+      "tlg009": "Agesilaus",
+      "tlg010": "Constitution of the Lacedaimonians",
+      "tlg011": "Ways and Means",
+      "tlg012": "On the Cavalry Commander",
+      "tlg013": "On the Cavalry Commander",
+      "tlg014": "On Hunting"
+    }
+  },
+  "tlg0033": {
+    "author": "Pindar",
+    "works": {
+      "tlg001": "Olympian Odes",
+      "tlg002": "Pythian Odes",
+      "tlg003": "Nemean Odes",
+      "tlg004": "Isthmean Odes"
+    }
+  },
+  "tlg0034": {
+    "author": "Lycurgus",
+    "works": {
+      "tlg001": "Against Leocrates"
+    }
+  },
+  "tlg0057": {
+    "author": "Galen",
+    "works": {
+      "tlg010": "On the Natural Faculties"
+    }
+  },
+  "tlg0059": {
+    "author": "Plato",
+    "works": {
+      "tlg001": "Euthyphro",
+      "tlg002": "Apology",
+      "tlg003": "Crito",
+      "tlg004": "Phaedo",
+      "tlg005": "Cratylus",
+      "tlg006": "Theaetetus",
+      "tlg007": "Sophist",
+      "tlg008": "Statesman",
+      "tlg009": "Parmenides",
+      "tlg010": "Philebus",
+      "tlg011": "Symposium",
+      "tlg012": "Phaedrus",
+      "tlg013": "Alcibiades 1",
+      "tlg014": "Alcibiades 2",
+      "tlg015": "Hipparchus",
+      "tlg016": "Lovers",
+      "tlg017": "Theages",
+      "tlg018": "Charmides",
+      "tlg019": "Laches",
+      "tlg020": "Lysis",
+      "tlg021": "Euthydemus",
+      "tlg022": "Protagoras",
+      "tlg023": "Gorgias",
+      "tlg024": "Meno",
+      "tlg025": "Greater Hippias",
+      "tlg026": "Lesser Hippias",
+      "tlg027": "Ion",
+      "tlg028": "Menexenus",
+      "tlg029": "Cleitophon",
+      "tlg030": "Republic",
+      "tlg031": "Timaeus",
+      "tlg032": "Critias",
+      "tlg033": "Minos",
+      "tlg034": "Laws",
+      "tlg035": "Epinomis",
+      "tlg036": "Letters"
+    }
+  },
+  "tlg0061": {
+    "author": "Pseudo-Lucian",
+    "works": {
+      "tlg001": "Loukios, or the Ass",
+      "tlg003": "Demosthenes: an Encomium",
+      "tlg004": "The Halcyon",
+      "tlg006": "The Cynic"
+    }
+  },
+  "tlg0062": {
+    "author": "Lucian of Samosata",
+    "works": {
+      "tlg001": "Phalaris",
+      "tlg002": "Hippias, or the Bath",
+      "tlg003": "Dionysus: an Introduction",
+      "tlg004": "Heracles: an Introduction",
+      "tlg005": "Amber, or the Swan",
+      "tlg006": "The Fly",
+      "tlg007": "Nigrinus",
+      "tlg008": "Demonax",
+      "tlg009": "The Hall",
+      "tlg010": "My Native Land",
+      "tlg011": "Octogenerians",
+      "tlg012": "A True Story",
+      "tlg013": "Slander: on not Being Quick to Put Faith in it",
+      "tlg014": "The Consonants at Law Sigma Vs. Tau, in the Court of the Seven Vowels",
+      "tlg015": "The Carousal, or the Lapiths",
+      "tlg016": "The Downward Journey, or the Tyrant",
+      "tlg017": "Zeus Catechized",
+      "tlg018": "Zeus Rants",
+      "tlg019": "The Dream, or the Cock",
+      "tlg020": "Prometheus",
+      "tlg021": "Icaromenippus, or the Sky-man",
+      "tlg022": "Timon, or the Misanthrope",
+      "tlg023": "Charon, or the Inspectors",
+      "tlg024": "Philosophies for Sale",
+      "tlg025": "The Dead Come to Life, or the Fisherman",
+      "tlg026": "The Double Indictment",
+      "tlg027": "On Sacrifices",
+      "tlg028": "The Ignorant Book Collector",
+      "tlg029": "The Dream or Lucian’s Career",
+      "tlg030": "The Parasite Tychiades",
+      "tlg031": "The Lover of Lies, or the Doubter Tychiades",
+      "tlg032": "The Judgement of the Goddesses",
+      "tlg033": "On Salaried Posts in Great Houses",
+      "tlg034": "Anacharsis, or Athletics",
+      "tlg035": "Menippus, or the Descent Into Hades",
+      "tlg036": "On Funerals",
+      "tlg037": "A Professor of Public Speaking",
+      "tlg038": "Alexander the False Prophet",
+      "tlg039": "Essays in Portraiture",
+      "tlg040": "Essays in Portraiture Defended",
+      "tlg041": "The Goddesse of Surrye",
+      "tlg042": "The Passing of Peregrinus",
+      "tlg043": "The Runaways",
+      "tlg044": "Toxaris, or Friendship",
+      "tlg045": "The Dance",
+      "tlg046": "Lexiphanes",
+      "tlg047": "The Eunuch",
+      "tlg048": "Astrology",
+      "tlg049": "The Mistaken Critic, or a Discourse on the Word",
+      "tlg050": "The Parliament of the Gods",
+      "tlg051": "The Tyrannicide",
+      "tlg052": "Disowned",
+      "tlg053": "How to write history",
+      "tlg054": "The Dipsads",
+      "tlg055": "A Conversation with Cronus",
+      "tlg056": "Herodotus or Aëtion",
+      "tlg057": "Zeuxis or Antiochus",
+      "tlg058": "A Slip of the Tongue in Greeting",
+      "tlg059": "Harmonides",
+      "tlg060": "Harmonides",
+      "tlg061": "A conversation with Hesiod",
+      "tlg062": "The Scythian or Consul",
+      "tlg063": "The Scythian or Consul",
+      "tlg064": "To one who said \"You're a Prometheus in words.\"",
+      "tlg065": "The ship or the wishes",
+      "tlg066": "Dialogues of the Dead",
+      "tlg067": "Dialogues of the Gods",
+      "tlg068": "Dialogues of the Gods",
+      "tlg069": "Dialogues of the Courtesans",
+      "tlg070": "The Purist Purized"
+    }
+  },
+  "tlg0085": {
+    "author": "Aeschylus",
+    "works": {
+      "tlg001": "Suppliant Maidens",
+      "tlg002": "Persians",
+      "tlg003": "Prometheus Bound",
+      "tlg004": "Seven Against Thebes",
+      "tlg005": "Agamemnon",
+      "tlg006": "Libation Bearers",
+      "tlg007": "Eumenides"
+    }
+  },
+  "tlg0086": {
+    "author": "Aristotle",
+    "works": {
+      "tlg009": "Eudemian Ethics",
+      "tlg010": "Nicomachean Ethics",
+      "tlg025": "Metaphysics",
+      "tlg029": "Economics",
+      "tlg034": "Poetics",
+      "tlg035": "Politics",
+      "tlg038": "The \"Art\" of Rhetoric"
+    }
+  },
+  "tlg0094": {
+    "author": "Pseudo-Plutarch",
+    "works": {
+      "tlg001": "Of the Names of Rivers and Mountains, and of Such Things as are to be Found Therein",
+      "tlg002": "Concerning music",
+      "tlg003": "Of Those Sentiments Concerning Nature with which Philosophers were Delighted"
+    }
+  },
+  "tlg0099": {
+    "author": "Strabo",
+    "works": {
+      "tlg001": "Geography (Books 6-14)"
+    }
+  },
+  "tlg0199": {
+    "author": "Bacchylides",
+    "works": {
+      "tlg001": "Epinicians",
+      "tlg002": "Dithyrambs"
+    }
+  },
+  "tlg0525": {
+    "author": "Pausanias",
+    "works": {
+      "tlg001": "Description of Greece"
+    }
+  },
+  "tlg0526": {
+    "author": "Flavius Josephus",
+    "works": {
+      "tlg001": "Antiquities of the Jews",
+      "tlg002": "The Life of Flavius Josephus",
+      "tlg003": "Against Apion",
+      "tlg004": "The Wars of the Jews"
+    }
+  },
+  "tlg0527": {
+    "author": "Old Testament",
+    "works": {
+      "tlg001": "Genesis",
+      "tlg002": "Exodus",
+      "tlg003": "Leviticus",
+      "tlg004": "Numbers",
+      "tlg005": "Deuteronomy",
+      "tlg006": "Joshua",
+      "tlg008": "Judges",
+      "tlg010": "Ruth",
+      "tlg011": "I Samuel",
+      "tlg012": "II Samuel",
+      "tlg013": "I Kings",
+      "tlg014": "II Kings",
+      "tlg015": "I Chronicles",
+      "tlg016": "II Chronicles",
+      "tlg018": "Ezra",
+      "tlg019": "Esther",
+      "tlg027": "Psalms",
+      "tlg029": "Proverbs",
+      "tlg030": "Ecclesiastes",
+      "tlg031": "Canticle",
+      "tlg032": "Job",
+      "tlg036": "Hosea",
+      "tlg037": "Amos",
+      "tlg038": "Micah",
+      "tlg039": "Joel",
+      "tlg040": "Obadiah",
+      "tlg041": "Jonah",
+      "tlg042": "Nahum",
+      "tlg043": "Habakkuk",
+      "tlg044": "Zephaniah",
+      "tlg045": "Haggai",
+      "tlg046": "Zechariah",
+      "tlg047": "Malachi",
+      "tlg048": "Isaiah",
+      "tlg049": "Jeremiah",
+      "tlg051": "Lamentations",
+      "tlg053": "Ezekiel",
+      "tlg056": "Daniel"
+    }
+  },
+  "tlg0535": {
+    "author": "Demades",
+    "works": {
+      "tlg001": "On the Twelve Years"
+    }
+  },
+  "tlg0540": {
+    "author": "Lysias",
+    "works": {
+      "tlg001": "On the Murder of Eratosthenes",
+      "tlg002": "Funeral Oration",
+      "tlg003": "Against Simon",
+      "tlg004": "On A Wound By Premeditation",
+      "tlg005": "For Callias",
+      "tlg006": "Against Andocides",
+      "tlg007": "On the Olive Stump",
+      "tlg008": "Accusation of Calumny",
+      "tlg009": "For The Soldier",
+      "tlg010": "Against Theomnestus 1",
+      "tlg011": "Against Theomnestus 2",
+      "tlg012": "Against Eratosthenes",
+      "tlg013": "Against Agoratus",
+      "tlg014": "Against Alcibiades 1",
+      "tlg015": "Against Alcibiades 2",
+      "tlg016": "In Defense of Mantitheus",
+      "tlg017": "On The Property Of Eraton",
+      "tlg018": "On the Confiscation of the Property Of The Brother Of Nicias",
+      "tlg019": "On the Property of Aristophanes",
+      "tlg020": "For Polystratus",
+      "tlg021": "Defense Against A Charge Of Taking Bribes",
+      "tlg022": "Against The Corn-Dealers",
+      "tlg023": "Against Pancleon",
+      "tlg024": "On The Refusal Of A Pension",
+      "tlg025": "Defense Against a Charge of Subverting the Democracy",
+      "tlg026": "On the Scrutiny of Evandros",
+      "tlg027": "Against Epicrates and his Fellow-envoys",
+      "tlg028": "Against Ergocles",
+      "tlg029": "Against Philocrates",
+      "tlg030": "Against Nicomachus",
+      "tlg031": "Against Philon",
+      "tlg032": "Against Diogeiton",
+      "tlg033": "Olympic Oration",
+      "tlg034": "Against The Subversion of the Ancestral Constitution"
+    }
+  },
+  "tlg0543": {
+    "author": "Polybius",
+    "works": {
+      "tlg001": "The Histories"
+    }
+  },
+  "tlg0548": {
+    "author": "Apollodorus",
+    "works": {
+      "tlg001": "Library",
+      "tlg002": "Epitome"
+    }
+  },
+  "tlg0551": {
+    "author": "Appianus of Alexandria",
+    "works": {
+      "tlg001": "The Roman History: Author's Preface",
+      "tlg002": "The Roman History: Concerning the Kings",
+      "tlg003": "The Roman History: Concerning Italy",
+      "tlg004": "The Roman History: The Samnite History",
+      "tlg005": "The Roman History: The Gallic History",
+      "tlg006": "The Roman History: Of Sicily and the Other Islands",
+      "tlg007": "The Roman History: The Wars in Spain",
+      "tlg008": "The Roman History: The Hannibalic War",
+      "tlg009": "The Roman History: The Punic Wars",
+      "tlg010": "The Roman History: Numidian Affairs",
+      "tlg011": "The Roman History: Macedonian Affairs",
+      "tlg012": "The Roman History: The Illyrian Wars",
+      "tlg013": "The Roman History: The Syrian Wars",
+      "tlg014": "The Roman History: The Mithridatic Wars",
+      "tlg017": "The Roman History: The Civil Wars"
+    }
+  },
+  "tlg0557": {
+    "author": "Epictetus",
+    "works": {
+      "tlg001": "Arrian's Discourses of Epictetus",
+      "tlg002": "The Encheiridion, or Manual",
+      "tlg003a": "Fragments"
+    }
+  },
+  "tlg0627": {
+    "author": "Hippocrates",
+    "works": {
+      "tlg001": "On Ancient Medicine",
+      "tlg002": "Airs, Waters, and Places",
+      "tlg003": "Of the Prognostics",
+      "tlg004": "On Regimen in Acute Diseases",
+      "tlg006": "The Epidemics",
+      "tlg007": "On Injuries of the Head",
+      "tlg008": "On the Surgery",
+      "tlg009": "On Fractures",
+      "tlg010": "On the Articulations",
+      "tlg011": "Mochlicus",
+      "tlg012": "Aphorisms",
+      "tlg013": "The Oath",
+      "tlg014": "The Law",
+      "tlg027": "On the Sacred Disease",
+      "tlg028": "On Ulcers",
+      "tlg029": "On Hemorrhoids",
+      "tlg030": "De fistulis",
+      "tlg046": "Nutriment",
+      "tlg051": "Precepts"
+    }
+  },
+  "tlg0646": {
+    "author": "Pseudo-Justinus Martyr",
+    "works": {
+      "tlg004": "The Epistle to Diogentus"
+    }
+  },
+  "tlg0719": {
+    "author": "Aretaeus of Cappadocia",
+    "works": {
+      "tlg001": "On the Causes and Symptoms of Acute Diseases",
+      "tlg002": "On the Causes and Symptoms of Chronic Diseases",
+      "tlg003": "On the Therapeutics of Acute Diseases",
+      "tlg004": "On the Cure of Chronic Diseases"
+    }
+  },
+  "tlg1216": {
+    "author": "Barnabae Epistula",
+    "works": {
+      "tlg001": "The Epistle of Barnabas"
+    }
+  },
+  "tlg1271": {
+    "author": "Clemens Romanus (Clement of Rome)",
+    "works": {
+      "tlg001": "The First Epistle of Clement to the Corinthians",
+      "tlg002": "The Second Epistle of Clement to the Corinthians"
+    }
+  },
+  "tlg1311": {
+    "author": "Didache",
+    "works": {
+      "tlg001": "The Didache, or Teaching of the Twelve Apostles"
+    }
+  },
+  "tlg1419": {
+    "author": "Hermas, 2nd cent.",
+    "works": {
+      "tlg001": "Hermas"
+    }
+  },
+  "tlg1443": {
+    "author": "Ignatius of Antioch",
+    "works": {
+      "tlg001": "The Epistles of Saint Ignatius"
+    }
+  },
+  "tlg1484": {
+    "author": "Martyrium Polycarpi",
+    "works": {
+      "tlg001": "The Martydom of St. Polycarp, Bishop of Smyrna"
+    }
+  },
+  "tlg1622": {
+    "author": "Polycarp",
+    "works": {
+      "tlg001": "The Epistle to the Philippians of Saint Polycarp"
+    }
+  },
+  "tlg1799": {
+    "author": "Euclid",
+    "works": {
+      "tlg001": "The Thirteen Books of Euclid's Elements"
+    }
+  }
+}

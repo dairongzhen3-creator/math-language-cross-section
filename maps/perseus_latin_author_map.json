@@ -1,0 +1,365 @@
+{
+  "phi0119": {
+    "author": "Plautus, Titus Maccius",
+    "works": {
+      "phi001": "Amphitryon, or Jupiter in Disguise",
+      "phi002": "Asinaria",
+      "phi003": "Aulularia",
+      "phi004": "Bacchides",
+      "phi005": "Captivi",
+      "phi006": "Casina",
+      "phi007": "Cistellaria",
+      "phi008": "Curculio",
+      "phi009": "Epidicus",
+      "phi010": "Menaechmi",
+      "phi011": "Mercator",
+      "phi012": "Miles Gloriosus",
+      "phi013": "Mostellaria",
+      "phi014": "Persa",
+      "phi015": "Poenulus",
+      "phi016": "Pseudolus",
+      "phi017": "Rudens",
+      "phi018": "Stichus",
+      "phi019": "Trinummus",
+      "phi020": "Truculentus"
+    }
+  },
+  "phi0134": {
+    "author": "Terence",
+    "works": {
+      "phi001": "Andria",
+      "phi002": "Heautontimorumenos",
+      "phi003": "Eunuchus",
+      "phi004": "Phormio",
+      "phi005": "Hecyra",
+      "phi006": "Adelphi"
+    }
+  },
+  "phi0426": {
+    "author": "Pseudo-Caesar",
+    "works": {
+      "phi001": "The African War"
+    }
+  },
+  "phi0428": {
+    "author": "Pseudo-Caesar",
+    "works": {
+      "phi001": "The Alexandrian War"
+    }
+  },
+  "phi0448": {
+    "author": "Julius Caesar",
+    "works": {
+      "phi001": "Gallic War",
+      "phi002": "The Civil Wars"
+    }
+  },
+  "phi0472": {
+    "author": "Catullus, C. Valerius",
+    "works": {
+      "phi001": "Carmina"
+    }
+  },
+  "phi0474": {
+    "author": "Cicero, Marcus Tullius",
+    "works": {
+      "phi001": "For Publius Quinctius",
+      "phi002": "For Sextus Roscius of Ameria",
+      "phi003": "For Quintus Roscius the Actor",
+      "phi004": "Divinatio against Q. Caecilius",
+      "phi005": "Against Verres",
+      "phi006": "For M. Tullius",
+      "phi007": "For M. Fonteius",
+      "phi008": "For Aulus Caecina",
+      "phi009": "In Defense of the Proposed Manilian Law",
+      "phi010": "For A. Cluentius",
+      "phi011": "On the Agrarian Law",
+      "phi012": "For C. Rabirius",
+      "phi013": "Against L. Catiline",
+      "phi014": "For L. Murena",
+      "phi015": "For P. Sulla",
+      "phi016": "For A.L. Archias",
+      "phi017": "For L. Flaccus",
+      "phi018": "Second Oration After Cicero's Return: Addressed to the People.",
+      "phi019": "In the Senate after his Return",
+      "phi020": "De domo sua ad pontifices",
+      "phi021": "De haruspicum responso in P. Clodium",
+      "phi022": "Pro P. Sestio",
+      "phi023": "Against Vatinius",
+      "phi024": "Pro M. Caelio",
+      "phi025": "De provinciis consularibus",
+      "phi026": "Pro L. Cornelio Balbos",
+      "phi027": "In L. Calpurnium Pisonem",
+      "phi028": "Pro Cn. Plancio",
+      "phi029": "Pro M. Scauro",
+      "phi030": "Pro C. Rabirio Postumo",
+      "phi031": "Pro T. Annio Milone",
+      "phi032": "Pro M. Marcello",
+      "phi033": "Pro Q. Ligario",
+      "phi034": "Pro Rege Deiotaro",
+      "phi035": "Philippics",
+      "phi051": "De Senectute, De senectute; De amicitia; De divinatione",
+      "phi052": "Laelius on Friendship",
+      "phi053": "De Divinatione, De senectute; De amicitia; De divinatione",
+      "phi055": "De Officiis, De officiis",
+      "phi056": "Letters to his Friends, The letters of Cicero the whole extant correspondence in chronological order",
+      "phi057": "Letters to Atticus, The letters of Cicero the whole extant correspondence in chronological order",
+      "phi058": "Letters to his brother Quintus, The letters of Cicero the whole extant correspondence in chronological order",
+      "phi059": "Letters to Brutus, The letters of Cicero the whole extant correspondence in chronological order"
+    }
+  },
+  "phi0478": {
+    "author": "Quintus Tullius Cicero",
+    "works": {
+      "phi003": "Commentariolum Petitionis"
+    }
+  },
+  "phi0550": {
+    "author": "Lucretius",
+    "works": {
+      "phi001": "De Rerum Natura"
+    }
+  },
+  "phi0631": {
+    "author": "Sallust",
+    "works": {
+      "phi001": "Conspiracy of Catiline",
+      "phi002": "Jugurthine War"
+    }
+  },
+  "phi0660": {
+    "author": "Tibullus",
+    "works": {
+      "phi003": "Six Poems"
+    }
+  },
+  "phi0690": {
+    "author": "P. Vergilius Maro (Virgil)",
+    "works": {
+      "phi001": "Eclogues",
+      "phi002": "Georgics",
+      "phi003": "Aeneid"
+    }
+  },
+  "phi0836": {
+    "author": "Celsus, Aulus Cornelius",
+    "works": {
+      "phi002": "De Medicina"
+    }
+  },
+  "phi0845": {
+    "author": "Columella, Lucius Junius Moderatus",
+    "works": {
+      "phi002": "Res Rustica"
+    }
+  },
+  "phi0893": {
+    "author": "Horace",
+    "works": {
+      "phi001": "Odes",
+      "phi004": "Satires",
+      "phi006": "The Art of Poetry: To the Pisos"
+    }
+  },
+  "phi0914": {
+    "author": "Titus Livius (Livy)",
+    "works": {
+      "phi001": "The History of Rome",
+      "phi0011": "?",
+      "phi00110": "?",
+      "phi00111s": "?",
+      "phi00112s": "?",
+      "phi00113s": "?",
+      "phi00114s": "?",
+      "phi00115s": "?",
+      "phi00116s": "?",
+      "phi00117s": "?",
+      "phi00118s": "?",
+      "phi00119s": "?",
+      "phi0012": "?",
+      "phi00120s": "?",
+      "phi00121": "?",
+      "phi00122": "?",
+      "phi00123": "?",
+      "phi00124": "?",
+      "phi00125": "?",
+      "phi00126": "?",
+      "phi00127": "?",
+      "phi00128": "?",
+      "phi00129": "?",
+      "phi0013": "?",
+      "phi00130": "?",
+      "phi00131": "?",
+      "phi00132": "?",
+      "phi00133": "?",
+      "phi00134": "?",
+      "phi00135": "?",
+      "phi00136": "?",
+      "phi00137": "?",
+      "phi00138": "?",
+      "phi00139": "?",
+      "phi0014": "?",
+      "phi00140": "?",
+      "phi00141": "?",
+      "phi00142": "?",
+      "phi00143": "?",
+      "phi00144": "?",
+      "phi00145": "?",
+      "phi0015": "?",
+      "phi0016": "?",
+      "phi0017": "?",
+      "phi0018": "?",
+      "phi0019": "?"
+    }
+  },
+  "phi0917": {
+    "author": "Lucan",
+    "works": {
+      "phi001": "Pharsalia"
+    }
+  },
+  "phi0959": {
+    "author": "Ovid",
+    "works": {
+      "phi001": "Amores",
+      "phi002": "Epistles",
+      "phi003": "The Art of Beauty",
+      "phi004": "The Art of Love",
+      "phi005": "Remedy of Love",
+      "phi006": "Metamorphoses"
+    }
+  },
+  "phi0972": {
+    "author": "Petronius Arbiter",
+    "works": {
+      "phi001": "Satyricon",
+      "phi001f": "?",
+      "phi001p": "?"
+    }
+  },
+  "phi0975": {
+    "author": "Phaedrus",
+    "works": {
+      "phi001": "Fabulae"
+    }
+  },
+  "phi0978": {
+    "author": "Pliny, the Elder",
+    "works": {
+      "phi001": "Naturalis Historia, C. Plini Secundi naturalis historiae libri XXXVII"
+    }
+  },
+  "phi1002": {
+    "author": "Quintilian",
+    "works": {
+      "phi001": "Institutio Oratoria"
+    }
+  },
+  "phi1017": {
+    "author": "Seneca, Lucius Annaeus",
+    "works": {
+      "phi011": "Apocolocyntosis"
+    }
+  },
+  "phi1056": {
+    "author": "Vitruvius Pollio",
+    "works": {
+      "phi001": "On Architecture, De architectura libri decem"
+    }
+  },
+  "phi1212": {
+    "author": "Apuleius",
+    "works": {
+      "phi002": "Metamorphoses"
+    }
+  },
+  "phi1254": {
+    "author": "Gellius, Aulus",
+    "works": {
+      "phi001": "Attic Nights"
+    }
+  },
+  "phi1348": {
+    "author": "Suetonius",
+    "works": {
+      "abo011": "Julius Caesar",
+      "abo012": "Divus Augustus",
+      "abo013": "Tiberius",
+      "abo014": "Caligula",
+      "abo015": "Divus Claudius",
+      "abo016": "Nero",
+      "abo017": "Galba",
+      "abo018": "Otho",
+      "abo019": "Vitellius",
+      "abo020": "Vespasian",
+      "abo021": "Divus Titus",
+      "abo022": "Domitian"
+    }
+  },
+  "phi1351": {
+    "author": "Tacitus, Cornelius",
+    "works": {
+      "phi001": "The Life of Cnaeus Julius Agricola",
+      "phi002": "Germany and its Tribes",
+      "phi003": "A Dialogue on Oratory",
+      "phi004": "The History",
+      "phi005": "The Annals"
+    }
+  },
+  "stoa0023": {
+    "author": "Ammianus Marcellinus",
+    "works": {
+      "stoa001": "History"
+    }
+  },
+  "stoa0040": {
+    "author": "?",
+    "works": {
+      "stoa011": "?"
+    }
+  },
+  "stoa0045": {
+    "author": "Ausonius, Decimus Magnus",
+    "works": {
+      "stoa010": "Epigrammaton Liber",
+      "stoa011": "Epistulae",
+      "stoa014": "Gratiarum Actio"
+    }
+  },
+  "stoa0054": {
+    "author": "?",
+    "works": {
+      "stoa006": "?"
+    }
+  },
+  "stoa0058": {
+    "author": "Boethius",
+    "works": {
+      "stoa001": "De consolatione philosophiae",
+      "stoa003": "Quomodo Substantiae in Eo Quod Sint Bonae Sint Cum Non Sint Substantialia Bona",
+      "stoa006": "De Fide Catholica",
+      "stoa023": "Liber De Persona et Duabus Naturis Contra Eutychen Et Nestorium",
+      "stoa025": "Quomodo Trinitas Unus Deus Ac Non Tres Dii (De Trinitate)",
+      "stoa028": "Utrum Pater Et Filius Ac Spiritus Sanctus De Divinitate Substantialiter Praedicentur Liber"
+    }
+  },
+  "stoa0089": {
+    "author": "Claudian",
+    "works": {
+      "stoa001": "Shorter Poems",
+      "stoa002": "The War Against Gildo",
+      "stoa003": "The Gothic War",
+      "stoa004": "On Stilicho's Consulship",
+      "stoa005": "Rape of Proserpine",
+      "stoa006": "Epithalamium de nuptiis Honorii Augusti",
+      "stoa007": "Fescinnina de nuptiis Honorii Augusti",
+      "stoa008": "Against Eutropius",
+      "stoa009": "In Rufinum",
+      "stoa010": "Panegyric on the Third Consulship of the Emperor Honorius",
+      "stoa011": "Panegyric on the Fourth Consulship of the Emperor Honorius",
+      "stoa012": "Panegyric on the Sixth Consulship of Honorius",
+      "stoa013": "Panegyric on the Consulshiip of Fl. Manlius Theodorius",
+      "stoa014": "Panegyric on the Consuls Probinus and Olybrius"
+    }
+  }
+}
